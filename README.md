@@ -17,11 +17,11 @@
 
 E-mail enviado a cada um dos gerentes com um One Page informativo do dia:<br>
 ![Screenshot_1](https://user-images.githubusercontent.com/128300382/228629549-00fc0d85-4ee2-452d-b703-f7d71414344e.png)
-
+<br>
 Parte inicial e final do e-mail enviado à diretoria da rede com os rankings diário e anual:<br>
-![Screenshot_3](https://user-images.githubusercontent.com/128300382/228629685-a8239939-0d83-49f9-8eee-b1419cf0b2f0.png)
 ![Screenshot_2](https://user-images.githubusercontent.com/128300382/228629680-80d0103c-472e-4bec-b7b2-4fb881d42f9c.png)
-
+![Screenshot_3](https://user-images.githubusercontent.com/128300382/228629685-a8239939-0d83-49f9-8eee-b1419cf0b2f0.png)
+<br>
 Dashboard online:<br>
 ![Screenshot_4](https://user-images.githubusercontent.com/128300382/228629805-e0aeae4d-4a2d-4348-8c62-1d03d2c42b2c.png)
 
